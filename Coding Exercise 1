@@ -7,7 +7,7 @@ public class campusLife {
     System.out.println("Ring... Ring...");
     System.out.println("It's already 8.00am. I quickly prepare myself before attending the lessons today.");
     System.out.println("Today is Wednesday and my first class is programming.");
-    System.out.println("This class is interesting as I can learn coding and have hands-on activities.");
+    System.out.println("This class is interesting as I can learn coding and has hands-on activities.");
     System.out.println("After this, I will be attending class for Mathematics for Information Technology. ");
     System.out.println("Next, I will be having lesson on Statistics for Information Technology.");
     System.out.println(" ");
